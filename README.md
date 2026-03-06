@@ -1,4 +1,4 @@
-## Telas do projeto
+## Telas dos projeto
 
 <img src="img/t1.png" width="80%">
 
