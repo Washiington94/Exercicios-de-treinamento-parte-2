@@ -1,7 +1,7 @@
 # Sistema Java com interface gráfica
 
 Projeto desenvolvido para treinamento, Explorando algumas funcionalidades:
-* Frame, Button, Label e TextField;
+* 'Frame', 'Button', 'Label' e 'TextField';
 * Posicionamento manual dos componentes com setLocation() e setSize();
 * Uso da classe Dimension para definir tamanhos;
 * Tratamento de eventos com ActionListener;
