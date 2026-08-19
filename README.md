@@ -14,15 +14,15 @@ Projeto desenvolvido para treinamento, Explorando algumas funcionalidades:
 
 Durante o desenvolvimento foram utilizados conceitos importantes de Java, como:
 
-Classes e objetos;
-Herança;
-Classes internas;
-Interfaces;
-Eventos e listeners;
-Componentes de interface gráfica;
-Conversão de tipos;
-Operações matemáticas;
-Organização e manipulação de elementos visuais.
+* Classes e objetos;
+* Herança;
+* Classes internas;
+* Interfaces;
+* Eventos e listeners;
+* Componentes de interface gráfica;
+* Conversão de tipos;
+* Operações matemáticas;
+* Organização e manipulação de elementos visuais.
 
 ## Tecnologias
 Java
