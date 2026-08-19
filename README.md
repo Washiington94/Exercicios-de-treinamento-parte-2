@@ -1,14 +1,14 @@
 # Sistema Java com interface gráfica
 
 Projeto desenvolvido para treinamento, Explorando algumas funcionalidades:
-* 'Frame', 'Button', 'Label' e 'TextField';
-* Posicionamento manual dos componentes com setLocation() e setSize();
+* `Frame`, `Button`, `Label` e `TextField`;
+* Posicionamento manual dos componentes com `setLocation()` e `setSize()`;
 * Uso da classe Dimension para definir tamanhos;
-* Tratamento de eventos com ActionListener;
+* Tratamento de eventos com `ActionListener`;
 * Captura de dados digitados pelo usuário;
-* Conversão de String para double;
+* Conversão de `String` para `double`;
 * Operações matemáticas;
-* Organização do código utilizando uma classe interna (ButtonHandler).
+* Organização do código utilizando uma classe interna `(ButtonHandler)`.
 
 # Conceitos praticados
 
