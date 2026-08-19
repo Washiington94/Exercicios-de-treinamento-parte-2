@@ -25,10 +25,10 @@ Durante o desenvolvimento foram utilizados conceitos importantes de Java, como:
 * Organização e manipulação de elementos visuais.
 
 ## Tecnologias
-Java
-MySQL
-JDBC
-Eclipse
+*Java
+*MySQL
+*JDBC
+*Eclipse
 
 ## Telas dos projeto
 
